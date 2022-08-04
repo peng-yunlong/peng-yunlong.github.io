@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Qi"
+title                    : "Yunlong Peng"
 title_separator          : "-"
-name                     : &name "Meng Qi"
-description              : &description "Assistant Professor of Operations Technology & Information Management, Cornell University SC Johnson College of Business"
-url                      : https://alicemengqi.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yunlong Peng"
+description              : &description "Ph.D. candidate, Operations Management, School of Ecomonics and Management, Tsinghua University"
+url                      : https://peng-yunlong.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alicemengqi.github.io/site"
+repository               : "peng-yunlong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meng Qi"
+  name             : "Yunlong Peng"
   avatar           : "profile.JPG"
-  bio              : "Assistant Professor of OTIM, Cornell University"
+  bio              : "Ph.D. candidate, Operations Management, Tsinghua University"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=P_sNAHEAAAAJ"
-  email            : "mq56@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=SF0E-LYAAAAJ&hl=zh-CN&oi=sra"
+  email            : "pengyl.17@sem.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
