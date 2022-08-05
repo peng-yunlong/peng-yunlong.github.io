@@ -1,14 +1,14 @@
 
 main:
-  - title: "Research"
-    url: /publications/
+#  - title: "Research"
+#    url: /publications/
     
-  - title: "Teaching & Working & Services"
-    url: /teaching/    
+#  - title: "Teaching & Working & Services"
+#    url: /teaching/    
   
     
-  - title: "Miscellaneous"
-    url: /markdown/
+#  - title: "Miscellaneous"
+#    url: /markdown/
     
-  - title: "CV"
-    url: /files/mengqi_cv.pdf
+#  - title: "CV"
+#    url: /files/mengqi_cv.pdf
