@@ -25,7 +25,7 @@ Tsinghua University (2017-2023) (Advisor: [Jian Chen](https://www.sem.tsinghua.e
 * **B.S. in Industrial Engineering**   
 Beihang University (2013-2017)
 * **Visiting Ph.D. Student, Kelley School of Business**   
-Indiana University Bloomington (June-Nov 2022)
+Indiana University Bloomington (June-Nov 2022) (Advisor: [Fei Gao](https://sites.google.com/view/feigao/home))  
 
 # Upcoming Talks
 I will be presenting at the upcoming 2022 INFORMS Annual Meeting in the following sessions: 
