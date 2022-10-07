@@ -15,8 +15,8 @@ Hello! I am a PhD candidate in Operations Management at School of Economics and 
 ### Research Interest
  I am broadly interested in socially responsible and sustainable operations with a particular focus on consumer behavior. Specifically, my existing and ongoing research spans two areas: 1) disposable packaging waste and food waste, and 2) consumer protection in the presence of digital technology. A common theme of my research is to develop analytical models to study the new challenges and trade-offs with the consideration of specific consumer behavior. 
 * Social responsibility in operations management
-* Sustainable Operations
-* Marketing-Operations Interface
+* Sustainable operations
+* Marketing-operations interface
 
 ### Education
 
