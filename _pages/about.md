@@ -24,6 +24,8 @@ Hello! I am a PhD candidate in Operations Management at School of Economics and 
 Tsinghua University (2017-2023) (Advisor: [Jian Chen](https://www.sem.tsinghua.edu.cn/en/info/1219/7004.htm))  
 * **B.S. in Industrial Engineering**   
 Beihang University (2013-2017)
+* **Visiting Ph.D. Student, Kelley School of Business**   
+Indiana University Bloomington (June-Nov 2022)
 
 # Upcoming Talks
 I will be presenting at the upcoming 2022 INFORMS Annual Meeting in the following sessions: 
