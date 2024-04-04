@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunlong Peng"
 title_separator          : "-"
 name                     : &name "Yunlong Peng"
-description              : &description "Ph.D. candidate, Operations Management, School of Ecomonics and Management, Tsinghua University"
+description              : &description "Assistant Professor, Warwick Business School, University of Warwick"
 url                      : https://peng-yunlong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peng-yunlong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunlong Peng"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. candidate, Operations Management, Tsinghua University"
+  bio              : "Assistant Professor, Warwick Business School, University of Warwick"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
