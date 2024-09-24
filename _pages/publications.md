@@ -6,9 +6,11 @@ author_profile: true
 ---
 {% include base_path %} 
 
-# Research Papers
-1. **Yunlong Peng**, Fei Gao, and Jian Chen. [Green Disposable Packaging and Communication: The Implications of Bring-Your-Own-Container](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888378). Major Revision at *Manufacturing & Service Operations Management*.
-2. **Yunlong Peng**, Fei Gao, and Jian Chen. Reusable Packaging with Consumer Incentives.
+# PUBLICATIONS
+1. **Yunlong Peng**, Fei Gao, and Jian Chen (2024). [Green Disposable Packaging and Communication: The Implications of Bring-Your-Own-Container](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888378). Accepted by *Manufacturing & Service Operations Management*.
+
+# WORKING PAPERS
+2. **Yunlong Peng**, Fei Gao, and Jian Chen. Reusable Packaging with Consumer Incentives. Reject & Resubmit at *Marketing Science*.
 
 
 <!-- {% if author.googlescholar %}
