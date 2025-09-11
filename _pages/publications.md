@@ -12,8 +12,6 @@ author_profile: true
 # PAPERS UNDER REVIEW/REVISION
 * **Yunlong Peng**, Fei Gao, and Jian Chen. [Towards Reuse: The Implications of Incentives and Convenience of Reusable Packaging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3679449). 
 
-# WORKS IN PROGRESS
-* **Yunlong Peng**, Fei Gao, and Jian Chen. Reusable Packaging with Deposit Return Scheme.
 
 
 <!-- {% if author.googlescholar %}
