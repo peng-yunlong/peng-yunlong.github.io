@@ -8,9 +8,11 @@ author_profile: true
 
 ## Research Areas
 
-My research examines how firms and platforms design operational policies and incentives when consumer decisions affect economic, environmental, and social outcomes. My research spans sustainable operations, socially responsible service and platform operations, and pricing and revenue management. Selected papers are listed below.
+My research focuses on three areas: **Circular Business Models**, **Responsible Platform Operations**, and the **Marketing–Operations Interface**. Across these areas, I study how operational decisions and incentives interact with consumer behavior.
 
-### Sustainable Operations Management
+## Selected Papers
+
+### Circular Business Models
 
 * **Yunlong Peng**, Fei Gao, and Jian Chen (2025). [Green Disposable Packaging and Communication: The Implications of Bring-Your-Own-Container](https://doi.org/10.1287/msom.2021.0605). *Manufacturing & Service Operations Management*, 27(1), 94–113.
 
@@ -18,6 +20,6 @@ My research examines how firms and platforms design operational policies and inc
 
 * **Yunlong Peng**, Fei Gao, and Jian Chen. [Reuse and Repeat: Deposit Return Scheme for Reusable Packaging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6700458). Major Revision at *Manufacturing & Service Operations Management*.
 
-### Pricing and Revenue Management
+### Marketing–Operations Interface
 
 * Chen Hu, **Yunlong Peng**, Ruxian Wang, and Yongbo Xiao. [Advance Selling under Product Rollover: Timing and Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730182). Major Revision at *Service Science*.
