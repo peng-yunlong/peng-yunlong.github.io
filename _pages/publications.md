@@ -6,7 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-## SUSTAINABLE OPERATIONS AND CIRCULAR BUSINESS MODELS
+## Research Areas
+
+My research examines how firms design operational policies and incentives, and how consumer responses shape their economic and societal outcomes. I work primarily in two areas:
+
+### Sustainable Operations Management
 
 * **Yunlong Peng**, Fei Gao, and Jian Chen (2025). [Green Disposable Packaging and Communication: The Implications of Bring-Your-Own-Container](https://doi.org/10.1287/msom.2021.0605). *Manufacturing & Service Operations Management*, 27(1), 94–113.
 
@@ -14,6 +18,6 @@ author_profile: true
 
 * **Yunlong Peng**, Fei Gao, and Jian Chen. [Reuse and Repeat: Deposit Return Scheme for Reusable Packaging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6700458). Major Revision at *Manufacturing & Service Operations Management*.
 
-## PRICING AND REVENUE MANAGEMENT
+### Pricing and Revenue Management
 
 * Chen Hu, **Yunlong Peng**, Ruxian Wang, and Yongbo Xiao. [Advance Selling under Product Rollover: Timing and Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730182). Major Revision at *Service Science*.
