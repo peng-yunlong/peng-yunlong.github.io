@@ -6,10 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Research Areas
-
-My research focuses on three areas: **Circular Business Models**, **Responsible Platform Operations**, and the **Marketing–Operations Interface**. Across these areas, I study how operational decisions and incentives interact with consumer behavior.
-
 ## Selected Papers
 
 ### Circular Business Models
