@@ -11,10 +11,10 @@ redirect_from:
 Hello! I am an Assistant Professor of Operations Management at Warwick Business School, University of Warwick.
 
 
-### Research Interest 
-* Social responsibility in operations management
-* Sustainable operations
-* Marketing-operations interface
+### Research Interests
+* Sustainable operations management
+* Socially responsible service and platform operations
+* Pricing and revenue management at the marketing–operations interface
 
 ### Education
 
