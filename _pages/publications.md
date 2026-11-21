@@ -8,7 +8,7 @@ author_profile: true
 
 ## Research Areas
 
-My research examines how firms design operational policies and incentives, and how consumer responses shape their economic and societal outcomes. I work primarily in two areas:
+My research examines how firms and platforms design operational policies and incentives when consumer decisions affect economic, environmental, and social outcomes. My research spans sustainable operations, socially responsible service and platform operations, and pricing and revenue management. Selected papers are listed below.
 
 ### Sustainable Operations Management
 
